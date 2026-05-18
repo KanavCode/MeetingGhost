@@ -6,3 +6,5 @@ dist/
 .env.*.local
 
 .vercel
+
+/src/generated/prisma
